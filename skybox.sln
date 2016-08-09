@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skybox.CSharp.Plugins", "skybox.CSharp.Plugins.csproj", "{5E6136EE-F1A4-3F68-7DE1-C50DCEBBABE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skybox.CSharp", "skybox.CSharp.csproj", "{65C52222-3BC4-DA73-C241-712A05C90738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skybox.CSharp.Editor", "skybox.CSharp.Editor.csproj", "{6C561226-9469-4C99-66FB-7B40EEA77D68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E6136EE-F1A4-3F68-7DE1-C50DCEBBABE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E6136EE-F1A4-3F68-7DE1-C50DCEBBABE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E6136EE-F1A4-3F68-7DE1-C50DCEBBABE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E6136EE-F1A4-3F68-7DE1-C50DCEBBABE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65C52222-3BC4-DA73-C241-712A05C90738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65C52222-3BC4-DA73-C241-712A05C90738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65C52222-3BC4-DA73-C241-712A05C90738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65C52222-3BC4-DA73-C241-712A05C90738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C561226-9469-4C99-66FB-7B40EEA77D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C561226-9469-4C99-66FB-7B40EEA77D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C561226-9469-4C99-66FB-7B40EEA77D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C561226-9469-4C99-66FB-7B40EEA77D68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
